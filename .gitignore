@@ -1,0 +1,10 @@
+tool/build
+tool/install
+build
+*.o
+*.bin
+*.iso
+
+tool/src/*.tar.gz
+tool/src/gcc-*/
+tool/src/binutils-*/
